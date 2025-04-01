@@ -3,9 +3,9 @@ Databases and SQL for Data Science with Python
 
 I have used three datasets on the city of Chicago's Data Portal: 
 
-Socioeconomic Indicators in Chicago
-Chicago Public Schools
-Chicago Crime Data
+Socioeconomic Indicators in Chicago\n
+Chicago Public Schools\n
+Chicago Crime Data\n
 
 A detailed description of this dataset and the original dataset can be obtained from the Chicago Data Portal at:
 
